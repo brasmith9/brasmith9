@@ -79,25 +79,36 @@ Writing maintainable, self-documenting code that teams can understand and extend
 
 <div align="center">
   
-  ![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brasmith9&show_icons=true&theme=dark&bg_color=0d1117&title_color=00BC7D&icon_color=00BC7D&text_color=c9d1d9&border_color=30363d)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brasmith9&layout=compact&theme=dark&bg_color=0d1117&title_color=00BC7D&text_color=c9d1d9&border_color=30363d)
+<img src="https://github-readme-stats.vercel.app/api?username=brasmith9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BC7D&icon_color=00BC7D&text_color=FFFFFF&border_radius=10" alt="Isaac's GitHub Stats" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brasmith9&theme=radical&hide_border=true&background=0D1117&ring=00BC7D&fire=00BC7D&currStreakLabel=00BC7D&border_radius=10" alt="Isaac's GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasmith9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BC7D&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brasmith9&theme=react-dark&hide_border=true&bg_color=0D1117&color=00BC7D&line=00BC7D&point=FFFFFF&area=true&area_color=00BC7D" alt="Contribution Graph" width="98%" />
   
 </div>
 
 ## 🎥 Latest YouTube Content
 
-I share my knowledge on **system design**, **backend architecture**, and **engineering best practices** on my YouTube channel.
+<div align="center">
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-YOUR-CHANNEL-ID?style=social)](https://www.youtube.com/@IAmIsaacAnane)
+### 📺 Architecting in Public
+
+I share my knowledge on **system design**, **backend architecture**, and **engineering best practices** on YouTube.
+
+[![YouTube](https://img.shields.io/badge/YouTube-@IAmIsaacAnane-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IAmIsaacAnane)
+
+</div>
 
 **Recent Topics:**
 - 🏗️ System Design & Architecture
 - 🔧 Building Distributed Systems
 - 💡 Backend Engineering Best Practices
 - 🚀 Live Coding Sessions
+- 🎯 Real-world Problem Solving
 
-[**→ Watch the Channel**](https://www.youtube.com/@IAmIsaacAnane)
+[**→ Subscribe to the Channel**](https://www.youtube.com/@IAmIsaacAnane)
 
 ## 📈 Experience Highlights
 
@@ -110,7 +121,8 @@ I share my knowledge on **system design**, **backend architecture**, and **engin
 
 ## 🎓 Education
 
-**University of Cape Coast** - Computer Science
+**University of Cape Coast** - BSc. Actuarial Science - (2016 - 2020)
+**University of Ghana** - MSc. Computer Science (2025 - 2026)
 
 ## 💬 Let's Connect
 

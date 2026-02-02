@@ -19,18 +19,6 @@
 
 I'm a **Lead Backend Engineer** at [Hubtel](https://hubtel.com), specializing in building scalable systems, APIs, and distributed architectures. With **6+ years of experience** and **35+ global projects** delivered, I bridge the gap between complex business logic and efficient, scalable digital ecosystems.
 
-```typescript
-const isaac = {
-  title: "Lead Backend Engineer",
-  company: "Hubtel",
-  location: "Ghana 🇬🇭",
-  focus: ["Scalable Systems", "API Design", "Distributed Architecture"],
-  currentlyLearning: ["Cloud Native Patterns", "Advanced System Design"],
-  askMeAbout: ["Backend Engineering", "Microservices", "Mentorship"],
-  funFact: "I believe Software Engineering is an art 👨🏿‍💻 And I am an artist 😎"
-};
-```
-
 ## 💼 What I Do
 
 - 🏗️ **Architect & Build** scalable backend systems that grow with business needs
